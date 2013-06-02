@@ -58,7 +58,7 @@ ul,li,dl,dt,dd,form,h1,h2,h3,h4,h5,p,img{margin:0px;padding:0px;font-weight:norm
 ul, li {
   list-style: none;
 }
-.prdlist_mainbox .prdlist_bar2 .bar2_cont .bar2_cont_ul_19 li {
+.prdlist_mainbox .prdlist_bar2 .bar2_cont .bar2_cont_ul_1 li {
   width: 100px;
   float: left;
 }
@@ -139,7 +139,7 @@ ul, li {
 .prdlist_mainbox .prdlist_bar2 h2{background:#2b2b2b;border-bottom:1px solid #272727;border-top:1px solid #272727; color:#fff;}
 .prdlist_mainbox .prdlist_bar2 h3{color:#d9003c;}
 .prdlist_mainbox .prdlist_bar2 .bar2_cont{border-bottom:1px solid #272727;}
-.prdlist_mainbox .prdlist_bar2 .bar2_cont .bar2_cont_ul_19 li{ width:100px; float:left;}
+.prdlist_mainbox .prdlist_bar2 .bar2_cont .bar2_cont_ul_1li{ width:100px; float:left;}
 .prdlist_mainbox .prdlist_cont{background:#e4e4e4;}
 .prdlist_mainbox .prdlist_cont .pager{background:url(./images/pager-bg2.gif) repeat-x;color:#fff;}
 .prdlist_mainbox .prdlist_cont .pager_cont a{color:#fff;}
